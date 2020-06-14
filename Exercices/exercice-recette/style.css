@@ -1,3 +1,12 @@
-h1 {
-  color: red;
+* {
+  font-family: comic sans ms;
+}
+body {
+  padding: 0px 24px;
+  background-color: darkgoldenrod;
+}
+header {
+  color: gold;
+  text-align: center;
+  text-shadow: 4px 4px 2px black;
 }
